@@ -14,7 +14,7 @@
 
 - 🎮 **Passionate developer** exploring the world of systems programming and graphics
 - 🔭 I'm currently working on **H42N42** & **ft_minecraft** 42's project
-- 🔥 But I have personal project I'm working on like **[Wynttils functions](https://github.com/basilounet/wynntilsFuncs)** for the [Wynntils](https://github.com/Wynntils/Wynntils) mod that I also contributed to
+- 🔥 But I have personal project I'm working on the **[Wynntils functions](https://github.com/basilounet/wynntilsFuncs)** for the [Wynntils](https://github.com/Wynntils/Wynntils) mod that I also contributed to
 - 🌱 I'm currently learning **Functional languages** 
 - 💡 **Interested in:** Graphics programming, game development & be a game programmer
 
